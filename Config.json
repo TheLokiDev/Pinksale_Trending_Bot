@@ -1,0 +1,9 @@
+{
+    "proxy": "Proxy host",
+    "thread": 5,
+    "url": "https://www.pinksale.finance/launchpad/0x00000000000000000000000000000000?chain=BSC",
+    "coin": "",
+    "port":proxy port,
+    "user": "proxy user",
+    "pasw": "proxy password"
+}
