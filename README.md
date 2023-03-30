@@ -48,9 +48,9 @@ Threads and Running Speed Depends on your PC specs & Network Speed...
 If not I will guide you to install the bot.
 
 ## Youtube
-Find me on Youtube :
+Find me on Youtube : https://www.youtube.com/channel/UC98Yc8dJXDg6bW2ZtW4Sdcg
 
-TUTORIAL Video : 
+TUTORIAL Video : soon
 
 Watch this video for more Information & Demo 
 
