@@ -15,6 +15,8 @@ A Pinksale Trending bot which makes a Token Trending on Pinksale using Python So
   <a href="#Contact">Contact</a>
 </p>
 
+<p align="center"><a href="https://youtu.be/6261d_cf5to" target="_blank"><img src="https://github.com/TheLokiDev/Pinksale_Trending_Bot/blob/main/1.png?raw=true"></a></p>
+
 ## About
 A Pinksale Trending bot which makes a Token Trending on Pinksale using Python Software.
 
