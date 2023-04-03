@@ -1,1 +1,1 @@
-python sc.py
+python pinksale.py
