@@ -22,6 +22,7 @@ A Pinksale Trending bot which makes a Token Trending on Pinksale using Python So
 
 If you are interested, go through here. <a href="#Contact">Contact</a>
 
+also make sure to read this [read this](https://github.com/TheLokiDev/Pinksale_Trending_Bot/blob/main/READ%20THIS.docx)
 ## Features
 - Search for your token ✓
 - Click KYC/Audit/Safu/Doxx Badges ✓
