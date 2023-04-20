@@ -57,7 +57,7 @@ TUTORIAL Video : https://youtu.be/6261d_cf5to
 Watch this video for more Information & Demo 
 
 # Contact
-For any kind of further assistant kindly DM me on Telegram.
+If you are interested and Want to buy it, Feel free to contact me.
 
 Telegram : [@TheLokiDev](https://t.me/TheLokiDev)
 
